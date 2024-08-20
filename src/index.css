@@ -1,0 +1,16 @@
+body {
+  padding: 20px;
+}
+
+button{
+  margin-right: 10px;
+}
+.bg-body-tertiary{
+  background-color: white!important;
+}
+
+.container-fluid{
+  padding: 0;
+  border-bottom: gray 1px solid;
+  margin-bottom:30px
+}
