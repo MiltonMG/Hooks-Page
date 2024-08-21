@@ -7,7 +7,7 @@ export const UseEffectPage = () => {
       <SimpleForm />
       <br />
       <span style={{ display:'block', marginBottom:'90px' }}></span>
-      <h4>2.</h4>
+      <h4>2. Form handled with a custom hook</h4>
       <FormCustomHook />
     </>
   )
