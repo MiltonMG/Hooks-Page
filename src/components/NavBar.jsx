@@ -12,6 +12,7 @@ export const NavBar = () => {
                         <div className="navbar-nav">
                             <Link className="nav-link" to={`/`}>useState</Link>
                             <Link className="nav-link" to={'/useEffect'}>useEffect</Link>
+                            <Link className="nav-link" to={'/useFetch'}>useFetch</Link>
                             <Link className="nav-link" to={'/useMemo'}>useMemo</Link>
                         </div>
                     </div>
