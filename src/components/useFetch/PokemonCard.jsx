@@ -1,5 +1,7 @@
 import './pokeCard.css';
 
+
+
 export const PokemonCard = ({ id, name, sprites = [], attack, defense, speed, hp, types = [] }) => {
 
     const typeColor = {
